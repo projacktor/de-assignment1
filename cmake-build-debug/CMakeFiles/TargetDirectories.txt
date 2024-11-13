@@ -1,3 +1,0 @@
-/home/projacktor/CLionProjects/de-assignment-24/cmake-build-debug/CMakeFiles/de_assignment_24.dir
-/home/projacktor/CLionProjects/de-assignment-24/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/projacktor/CLionProjects/de-assignment-24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
